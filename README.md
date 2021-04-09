@@ -2,7 +2,7 @@
 
 This is a little automated script using github actions that will update this badge here:
 
-<a id="githubLevelId" href="https://github.com/arran4/github-level"> <img src="https://img.shields.io/badge/Github Level%20version1-601-yellowgreen" alt="Github level 601"/></a>
+<a id="githubLevelId" href="https://github.com/arran4/github-level"> <img src="https://img.shields.io/badge/Github Level%20version1-613-yellowgreen" alt="Github level 613"/></a>
 
 When you fork this project and when you manually rerun the badge. 
 
